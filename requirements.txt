@@ -1,0 +1,5 @@
+ultralytics==8.4.216
+pycocotools>=2.0.7
+faster-coco-eval>=1.6.7
+pandas
+matplotlib
