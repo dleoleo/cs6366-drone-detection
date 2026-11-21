@@ -20,7 +20,7 @@ Ultralytics makes the training itself simple, so the core of our work is a **rig
 |---|---|
 | Quoc Nguyen | [@gizaquoc197](https://github.com/gizaquoc197) |
 | Daniil Leonov | TBD |
-| Mukendi Patrick Tshiswaka | TBD |
+| Mukendi Patrick Tshiswaka | [@MukendiPatrick](https://github.com/MukendiPatrick) |
 
 ## Datasets
 
